@@ -1,0 +1,7 @@
+{
+  "pack": {
+    "pack_format": 4,
+    "supported_formats": [4, 63],
+    "description": "Make RGC concretes' texture more suitable for chroma keying"
+  }
+}
